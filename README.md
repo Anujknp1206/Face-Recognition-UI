@@ -2,8 +2,6 @@
 
 A complete attendance tracking solution with graphical interface that handles all operations in one application.
 
-![System Workflow](https://i.imgur.com/JQ6ZfzG.png)
-
 ## Features ✨
 - **All-in-One Interface** - No need to run separate scripts
 - **User Management** - Add/register new users directly
@@ -108,8 +106,9 @@ Face Recognition	LBPH Algorithm	Identify registered users
 User Interface	Tkinter (Custom Styled)	Interactive controls
 Data Storage	CSV Files	Attendance records
 
-System Workflow
-<img width="828" height="2154" alt="Face_Recognition" src="https://github.com/user-attachments/assets/60c60024-a3fd-41e8-aaea-217b41e21117" />
+
+
+<img width="528" height="1154" alt="Face_Recognition" src="https://github.com/user-attachments/assets/60c60024-a3fd-41e8-aaea-217b41e21117" />
 
 
 Features Breakdown
